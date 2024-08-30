@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm Eugene Leontev
 
-I'm a self-made Ruby Backend Developer and team leader with over 8 years of experience building highly loaded backends for mobile, web, and distributed applications. My main technology stack includes Ruby on Rails, PostgreSQL, and Amazon AWS. I thrive in startups and mid-sized companies, solving real problems, taking ownership of products, and bringing measurable value to users.
+I'm a Ruby Backend Developer, Team Lead and Engineering manager with 8+ years of experience in building high-load systems and scalable architectures. My work has reduced response times by 10x, optimized performance, and delivered reliable, efficient solutions across various projects.
 
-I believe in simplicity, transparency, and measurability. My approach to complex systems is to build them in small, simple iterations. I'm an advocate of clean architecture and SOLID principles, and I ensure everything works as expected by covering source code with unit tests.
+I excel in leading teams to achieve measurable results, combining my adaptability, innovative mindset, and a strong focus on diversity. My expertise includes Ruby on Rails, AWS, and PostgreSQL, where I've successfully managed complex deployments and system improvements.
+
+If your organization is looking for a professional who can transform technical challenges into clear, impactful results, let's connect! Together, we can drive your company's growth and success with my technical skills and leadership experience.
 
 ### My Background
 
