@@ -22,7 +22,7 @@ If your organization is looking for a professional who can transform technical c
 ### Let's Connect!
 
 - **[Eugene The Engineer Website](https://madmatvey.github.io)**
-- **[LinkedIn](https://www.linkedin.com/in/madmatvey)**
+- **[LinkedIn](https://www.linkedin.com/in/eugeneleontev/)**
 - **[GitHub](https://github.com/madmatvey)**
 
 I enjoy using memes in technical discussions, so feel free to share a good one when we chat! Looking forward to connecting with like-minded folks who value transparency and people-centric environments as much as I do.
