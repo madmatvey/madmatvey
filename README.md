@@ -1,32 +1,60 @@
-# Hi there! 👋 I'm Eugene Leontev
+# Eugene Leontev - Lead Ruby Engineer
 
-I'm a Ruby Backend Developer, Team Lead and Engineering manager with 8+ years of experience in building high-load systems and scalable architectures. My work has reduced response times by 10x, optimized performance, and delivered reliable, efficient solutions across various projects.
+**Location:** Tbilisi, Georgia  
+**LinkedIn:** [linkedin.com/in/eugeneleontev](https://www.linkedin.com/in/eugeneleontev/)  
+**GitHub:** [github.com/madmatvey](https://github.com/madmatvey)  
+**Blog:** [madmatvey.github.io](https://madmatvey.github.io/)  
 
-I excel in leading teams to achieve measurable results, combining my adaptability, innovative mindset, and a strong focus on diversity. My expertise includes Ruby on Rails, AWS, and PostgreSQL, where I've successfully managed complex deployments and system improvements.
+## Professional Summary
 
-If your organization is looking for a professional who can transform technical challenges into clear, impactful results, let's connect! Together, we can drive your company's growth and success with my technical skills and leadership experience.
+Lead Ruby engineer with 8+ years specializing in high-load backends, microservices, and fintech solutions. Proven track record of delivering 92% performance improvements, scaling systems to handle 5,000+ daily transactions, and leading cross-functional teams of up to 12 engineers.
 
-### My Background
+## Key Achievements
 
-- **Location**: Tbilisi, Georgia (originally from Siberia, Russia)
-- **Experience**: Wallarm (API Security), Eleving Group (Fintech Auto Loans), Appbooster (Hi-load Mobile Application), Bitupper (Cryptocurrency Blockchain Explorer)
-- **Education**: Bachelor's in Computer Programming, CS50 from Harvard College, and more!
-- **Languages**: Fluent in English (B2), native Russian speaker, and A1 in Georgian.
+- **Performance Optimization:** Reduced database query latency from 250ms to 20ms, achieving 92% system throughput improvement
+- **Scalability:** Architected USDT wallet processing 5,000+ daily transactions with 300+ deposits in first week
+- **Team Leadership:** Led 12-engineer teams, delivering features 2 weeks ahead of schedule
+- **Growth:** Drove 12x user growth through referral programs generating 50,000+ invites
+- **API Optimization:** Slashed wallet API response time from 35-45s to 5-7s
 
-### Fun Facts
+## Core Competencies
 
-- 🌟 Former radio DJ, sound producer, musician, and entrepreneur.
-- ⛵ I have a sailing yacht captain's license!
-- 🌍 Considering Argentina as my next base camp.
+**Backend Development:** Ruby on Rails, PostgreSQL, Microservices Architecture  
+**Cloud & DevOps:** AWS, Kubernetes, CI/CD, Docker  
+**Performance & Security:** Query Optimization, OAuth, TRC20/ERC20 Integration  
+**Leadership:** Technical Team Management, Cross-functional Collaboration, Remote Team Coordination  
 
-### Let's Connect!
+## Recent Experience
 
-- **[Eugene The Engineer Website](https://madmatvey.github.io)**
-- **[LinkedIn](https://www.linkedin.com/in/eugeneleontev/)**
-- **[GitHub](https://github.com/madmatvey)**
+**Principal Ruby Engineer** | Fintech Startup (TRC20 USDT Wallet) | Sep 2024–May 2025
+- Sole backend architect for Series A fintech startup
+- Built secure USDT deposit system scaling to 5,000+ daily transactions
+- Designed referral engine driving 12x user growth
 
-I enjoy using memes in technical discussions, so feel free to share a good one when we chat! Looking forward to connecting with like-minded folks who value transparency and people-centric environments as much as I do.
+**Lead Ruby Developer** | Wallarm (API Security) | Jan 2023–Mar 2024
+- Led MySQL→PostgreSQL migration achieving 30% query performance improvement
+- Implemented OAuth-based IAM supporting 100k+ daily API calls
 
+**Lead Ruby Developer** | Eleving Group (Fintech) | May 2022–Dec 2022
+- Redesigned core architecture for 92% throughput improvement
+- Implemented PostgreSQL materialized views reducing query times by 80%
+
+**Team Lead / Senior Ruby Developer** | Appbooster | Aug 2018–Apr 2022
+- Managed 12-engineer team delivering releases ahead of schedule
+- Integrated monitoring tools reducing average query time from 250ms to 20ms
+
+## Education & Training
+
+- **B.Sc. Computer Science in Economics** | Urals State University (2005-2007)
+- **Computing Machines & Networks** | Novosibirsk State Technical University (2001-2004)
+- **AI Tools Workshop** | Delivered to 60 engineers with 75% adoption rate (2025)
+- **Remote Team Management** | Coursera & GitLab Certification (2024)
+
+## Languages & Availability
+
+- **Languages:** English (B2+), Russian (Native)
+- **Availability:** 9am-5pm EST / 2pm-10pm GMT for live collaboration
+- **Work Authorization:** No sponsorship required 
 ---
 
 > "All complex systems are built in small and relatively simple iterations."
