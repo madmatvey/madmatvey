@@ -1,6 +1,7 @@
 # Eugene Leontev - Lead Ruby Engineer
 
 **Location:** Tbilisi, Georgia (relocating to Buenos Aires, Argentina)
+
 **LinkedIn:** [linkedin.com/in/eugeneleontev](https://www.linkedin.com/in/eugeneleontev/)  
 **GitHub:** [github.com/madmatvey](https://github.com/madmatvey)  
 **Blog:** [madmatvey.github.io](https://madmatvey.github.io/)  
