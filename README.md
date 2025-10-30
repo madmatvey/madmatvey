@@ -53,7 +53,7 @@ Lead Ruby engineer with 8+ years specializing in high-load backends, microservic
 
 ## Languages & Availability
 
-- **Languages:** English (B2+), Russian (Native)
+- **Languages:** English (С1), Russian (Native)
 - **Availability:** 9am-5pm EST / 2pm-10pm GMT for live collaboration
 - **Work Authorization:** No sponsorship required 
 ---
