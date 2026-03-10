@@ -1,64 +1,101 @@
-# Eugene Leontev - Lead Ruby Engineer
+# Eugene Leontev — Senior Ruby / Ruby on Rails Engineer
 
-**Location:** Tbilisi, Georgia (relocating to Buenos Aires, Argentina)
+Backend engineer with 9+ years of experience building and scaling production SaaS platforms.
 
-**LinkedIn:** [linkedin.com/in/eugeneleontev](https://www.linkedin.com/in/eugeneleontev/)  
-**GitHub:** [github.com/madmatvey](https://github.com/madmatvey)  
-**Blog:** [madmatvey.github.io](https://madmatvey.github.io/)  
+I specialize in designing reliable Ruby on Rails backends, optimizing PostgreSQL-heavy workloads, and building APIs that operate under real production load.
 
-## Professional Summary
+One example: improved a critical backend endpoint from ~250ms to ~20ms in a mobile backend called over 1M times per day by redesigning PostgreSQL queries and indexes.
 
-Lead Ruby engineer with 8+ years specializing in high-load backends, microservices, and fintech solutions. Proven track record of delivering 92% performance improvements, scaling systems to handle 5,000+ daily transactions, and leading cross-functional teams of up to 12 engineers.
+📍 Tbilisi, Georgia  
+🌍 Open to global remote roles
 
-## Key Achievements
+LinkedIn: https://linkedin.com/in/eugeneleontev  
+GitHub: https://github.com/madmatvey  
+Blog: https://madmatvey.github.io/
 
-- **Performance Optimization:** Reduced database query latency from 250ms to 20ms, achieving 92% system throughput improvement
-- **Scalability:** Architected USDT wallet processing 5,000+ daily transactions with 300+ deposits in first week
-- **Team Leadership:** Led 12-engineer teams, delivering features 2 weeks ahead of schedule
-- **Growth:** Drove 12x user growth through referral programs generating 50,000+ invites
-- **API Optimization:** Slashed wallet API response time from 35-45s to 5-7s
-
-## Core Competencies
-
-**Backend Development:** Ruby on Rails, PostgreSQL, Microservices Architecture  
-**Cloud & DevOps:** AWS, Kubernetes, CI/CD, Docker  
-**Performance & Security:** Query Optimization, OAuth, TRC20/ERC20 Integration  
-**Leadership:** Technical Team Management, Cross-functional Collaboration, Remote Team Coordination  
-
-## Recent Experience
-
-**Principal Ruby Engineer** | Fintech Startup (TRC20 USDT Wallet) | Sep 2024–May 2025
-- Sole backend architect for Series A fintech startup
-- Built secure USDT deposit system scaling to 5,000+ daily transactions
-- Designed referral engine driving 12x user growth
-
-**Lead Ruby Developer** | Wallarm (API Security) | Jan 2023–Mar 2024
-- Led MySQL→PostgreSQL migration achieving 30% query performance improvement
-- Implemented OAuth-based IAM supporting 100k+ daily API calls
-
-**Lead Ruby Developer** | Eleving Group (Fintech) | May 2022–Dec 2022
-- Redesigned core architecture for 92% throughput improvement
-- Implemented PostgreSQL materialized views reducing query times by 80%
-
-**Team Lead / Senior Ruby Developer** | Appbooster | Aug 2018–Apr 2022
-- Managed 12-engineer team delivering releases ahead of schedule
-- Integrated monitoring tools reducing average query time from 250ms to 20ms
-
-## Education & Training
-
-- **B.Sc. Computer Science in Economics** | Urals State University (2005-2007)
-- **Computing Machines & Networks** | Novosibirsk State Technical University (2001-2004)
-- **AI Tools Workshop** | Delivered to 60 engineers with 75% adoption rate (2025)
-- **Remote Team Management** | Coursera & GitLab Certification (2024)
-
-## Languages & Availability
-
-- **Languages:** English (С1), Russian (Native)
-- **Availability:** 9am-5pm EST / 2pm-10pm GMT for live collaboration
-- **Work Authorization:** No sponsorship required 
 ---
 
-> "All complex systems are built in small and relatively simple iterations."
+## Core Expertise
 
-Cheers,  
-Eugene
+**Backend Development**
+- Ruby
+- Ruby on Rails
+- REST API architecture
+- Service-oriented systems
+
+**Databases**
+- PostgreSQL
+- Query optimization
+- Data modeling
+- Materialized views
+
+**Scalability & Infrastructure**
+- AWS
+- Docker
+- CI/CD pipelines
+- distributed systems
+
+**Backend Systems**
+- Sidekiq
+- background processing
+- asynchronous pipelines
+
+---
+
+## Engineering Impact
+
+Selected examples from production systems:
+
+• Reduced API latency **250ms → 20ms** through PostgreSQL query optimization  
+• Improved endpoint performance **400–500ms → 3–5ms** through architectural redesign  
+• Built backend systems handling **100K+ API requests per day**  
+• Designed asynchronous processing pipelines for financial workflows  
+• Maintained **99.9% uptime** for SaaS production services
+
+---
+
+## Professional Experience
+
+### Senior Ruby Developer — Wallarm (API Security SaaS)
+Worked on a large-scale API security platform serving enterprise customers.
+
+- Developed Ruby on Rails APIs handling 100K+ daily requests
+- Contributed to API-first architecture for enterprise integrations
+- Improved production reliability and observability
+
+### Lead Backend Engineer — SaaS Platforms
+Architected and developed scalable Rails backends for production SaaS applications.
+
+- Designed distributed backend services
+- Built fault-tolerant background processing with Sidekiq
+- Integrated external APIs and CRM platforms
+
+### Engineering Manager / Lead Backend Engineer — Appbooster
+Led backend development for a mobile growth and analytics platform.
+
+- Improved backend performance **250ms → 20ms**
+- Introduced asynchronous processing pipelines
+- Led engineering team of **12 developers**
+
+---
+
+## Engineering Interests
+
+- scalable backend architecture
+- PostgreSQL performance
+- API design
+- distributed systems
+- AI-assisted software development
+
+---
+
+## Writing
+
+Technical notes and experiments:  
+https://madmatvey.github.io/
+
+---
+
+> “All complex systems are built in small and relatively simple iterations.”
+
+— Eugene Leontev
