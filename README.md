@@ -6,7 +6,7 @@ I specialize in designing reliable Ruby on Rails backends, optimizing PostgreSQL
 
 One example: improved a critical backend endpoint from ~250ms to ~20ms in a mobile backend called over 1M times per day by redesigning PostgreSQL queries and indexes.
 
-📍 Tbilisi, Georgia  
+📍 Buenos-Aires, Argentina  
 🌍 Open to global remote roles
 
 LinkedIn: https://linkedin.com/in/eugeneleontev  
